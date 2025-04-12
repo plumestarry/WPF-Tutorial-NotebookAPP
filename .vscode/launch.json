@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+
+        
+
+        {
+            "name": "C#: Notebook",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Notebook\\Notebook.csproj",
+            "launchConfigurationId": "TargetFramework=;Notebook"
+        }
+    ]
+}
