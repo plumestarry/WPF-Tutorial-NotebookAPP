@@ -1,11 +1,12 @@
-﻿using Notebook.Shared.Contact;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Notebook.Shared;
+using Notebook.Shared.Contact;
 
 namespace Notebook.Service
 {

@@ -1,4 +1,5 @@
 ﻿using Notebook.Common.Models;
+using Notebook.Shared;
 using Notebook.Shared.Contact;
 using Notebook.Shared.Dtos;
 using Notebook.Shared.Parameters;

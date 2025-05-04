@@ -1,4 +1,5 @@
-﻿using Notebook.Shared.Contact;
+﻿using Notebook.Shared;
+using Notebook.Shared.Contact;
 using Notebook.Shared.Parameters;
 using System;
 using System.Collections.Generic;

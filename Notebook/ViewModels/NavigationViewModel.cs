@@ -38,7 +38,7 @@ namespace Notebook.ViewModels
 
         public void UpdateLoading(bool IsOpen)
         {
-            aggregator.UpdateLoading(new Common.Events.UpdateModel()
+            aggregator.UpdateLoading(new UpdateModel()
             {
                 IsOpen = IsOpen
             });

@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Notebook.Shared;
 using Notebook.Shared.Contact;
 using Notebook.Shared.Parameters;
 using System;
